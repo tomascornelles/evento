@@ -1,0 +1,652 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"scrol",
+				"scrollNew"
+			],
+			[
+				"pag",
+				"paginaTemp"
+			],
+			[
+				"aler",
+				"alert(message)	Window"
+			],
+			[
+				"sc",
+				"scrollTemp"
+			],
+			[
+				"pre",
+				"preventDefault()	Event"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"con",
+				"contain"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"fos",
+				"font-size"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"fsi",
+				"font-size"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"conso",
+				"console.log()"
+			],
+			[
+				"bacc",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"set",
+				"setajax"
+			],
+			[
+				"get",
+				"getElementById('form"
+			],
+			[
+				"lenght",
+				"length	Array"
+			],
+			[
+				"resu",
+				"result	FileReader"
+			],
+			[
+				"cons",
+				"console.log('$0');"
+			],
+			[
+				"style",
+				"styles"
+			],
+			[
+				"quer",
+				"querySelectorAll(${0:selectors})	Element"
+			],
+			[
+				"alert",
+				"alert(${0:message})	Window"
+			],
+			[
+				"char",
+				"charset"
+			],
+			[
+				"Stri",
+				"String(${0:Object})	Object"
+			],
+			[
+				"fe",
+				"fechaFinal"
+			],
+			[
+				"fecha",
+				"fechaFinal"
+			],
+			[
+				"fech",
+				"fechaFormat"
+			],
+			[
+				"fec",
+				"fechaFormat"
+			],
+			[
+				"date",
+				"new Date()	Date"
+			],
+			[
+				"matr",
+				"matriz"
+			],
+			[
+				"ma",
+				"matriz"
+			],
+			[
+				"matri",
+				"matriz1"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"fac",
+				"factRec"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"Su",
+				"Subscribete"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"page-bre",
+				"page-break-before"
+			],
+			[
+				"sas",
+				"sass_styles"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"stan",
+				"Standard Format: Format current file"
+			],
+			[
+				"expa",
+				"Format CSS: Expanded"
+			],
+			[
+				"css",
+				"Format CSS: Expanded (Break Selectors)"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"emmet",
+				"Emmet: Balance (inward)"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"mini",
+				"Minify Javascript"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"lin",
+				"SublimeLinter: Next Error"
+			],
+			[
+				"li",
+				"SublimeLinter: Previous Error"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tomas/Dev/evento"
+	],
+	"file_history":
+	[
+		"/Users/tomas/Dev/20162017/app/css/normalize.css",
+		"/Users/tomas/Dev/20162017/app/css/min.css",
+		"/Users/tomas/Dev/20162017/app/sass/styles.sass",
+		"/Users/tomas/Dev/20162017/app/js/scripts.js",
+		"/Users/tomas/Dev/20162017/app/views/index.html",
+		"/Users/tomas/Dev/20162017/package.json",
+		"/Users/tomas/Dev/20162017/bower.json",
+		"/Users/tomas/Downloads/Adobe CS6 Master Collection With Crack - Mac OSX/Adobe CS6 Master Collection for Mac OSX (with crack).nfo",
+		"/Users/tomas/Dev/20162017/dist/styles.css",
+		"/Users/tomas/Dev/20162017/app/elements/mi-invitado/mi-invitado.html",
+		"/Users/tomas/Dev/20162017/app/elements/elements.html",
+		"/Users/tomas/Dev/20162017/app/index.html",
+		"/Users/tomas/Dev/20162017/app/elements/mi-musica/mi-musica.html",
+		"/Users/tomas/Dev/20162017/app/elements/mi-home/mi-home.html",
+		"/Users/tomas/Dev/20162017/app/scripts/app.js",
+		"/Users/tomas/Dev/webapp/app/elements/mi-invitado/mi-musica/mi-musica.html",
+		"/Users/tomas/Dev/webapp/app/elements/invitado.html",
+		"/Users/tomas/Downloads/20162017-export.json",
+		"/Users/tomas/Dev/webapp/.jshintrc",
+		"/Users/tomas/Dev/webapp/bower_components/paper-menu/paper-menu.html",
+		"/Users/tomas/Dev/polymer/editable-name-tag.html",
+		"/Users/tomas/Dev/polymer/webcomponents/name-tag.html",
+		"/Users/tomas/Dev/polymer/webcomponents/proto-element.html",
+		"/Users/tomas/Dev/polymer/index.html",
+		"/Users/tomas/Dev/spa/gulpfile.js",
+		"/Users/tomas/Dev/spa/app/views/index.html",
+		"/Users/tomas/Dev/spa/dist/index.html",
+		"/Users/tomas/Dev/spa/app/views/proto-element.html",
+		"/Users/tomas/Dev/spa/app/sass/estilo.sass",
+		"/Users/tomas/Dev/spa/app/js/app.js",
+		"/Users/tomas/Dev/spa/dist/libs.js",
+		"/Users/tomas/Dev/spa/dist/proto-element.html",
+		"/Users/tomas/Dev/spa/app/views/index.jade",
+		"/Users/tomas/Dev/spa/app/css/bootstrap.min.css",
+		"/Users/tomas/Dev/spa/dist/libs.css",
+		"/Users/tomas/Dev/spa/dist/scripts.js",
+		"/Users/tomas/Dev/spa/app/js/jquery-1.11.3.min.js",
+		"/Users/tomas/Dev/spa/dist/styles.css",
+		"/Users/tomas/Dev/cssball/css/styles.less",
+		"/Users/tomas/Dev/cursoMVP/mod8/index.html",
+		"/Users/tomas/Dev/cursoMVP/mod8/main.js",
+		"/Users/tomas/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/tomas/Desarrollo/cursoMVP/mod7/index.html",
+		"/Users/tomas/Desarrollo/cursoMVP/mod7/main.js",
+		"/Users/tomas/Desarrollo/cursoMVP/mod5/main.js",
+		"/Users/tomas/Desarrollo/cursoMVP/mod5/index.html",
+		"/Users/tomas/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/tomas/Desarrollo/jshintrc",
+		"/Users/tomas/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/tomas/Library/Application Support/Sublime Text 3/Packages/User/jsFunction",
+		"/Users/tomas/Library/Application Support/Sublime Text 3/Packages/User/function.js",
+		"/Users/tomas/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/.jshintrc",
+		"/Users/tomas/Desarrollo/cursoMVP/mod4/index.html",
+		"/Users/tomas/Desarrollo/cursoMVP/mod4/main.js",
+		"/Users/tomas/Library/Application Support/Sublime Text 3/Packages/JSHint Gutter/JSHint.sublime-settings",
+		"/Users/tomas/Desarrollo/cssball/js/main.js",
+		"/Users/tomas/Desarrollo/cssball/css/teams.less",
+		"/Users/tomas/Desarrollo/cssball/css/styles.less",
+		"/Users/tomas/Desarrollo/cssball/index.html",
+		"/Users/tomas/Desarrollo/cssball/css/normalize.css",
+		"/Users/tomas/Desarrollo/cssball/js/less.min.js",
+		"/Users/tomas/Desarrollo/cssball/js/less.js",
+		"/Users/tomas/Desarrollo/tomascornelles.github.io/index.html",
+		"/Users/tomas/Downloads/MC3 Revoltify Alternate 2/MC3 Revoltify Alternate 2.xml",
+		"/Users/tomas/Library/Application Support/MacDown/Styles/libro.css",
+		"/Users/tomas/Documents/writing-book-es.t2t",
+		"/Users/tomas/Desarrollo/miporfolio/gulpfile.js",
+		"/Users/tomas/Desarrollo/miporfolio/package.json",
+		"/Users/tomas/Desarrollo/miporfolio/build/index.html",
+		"/Users/tomas/Desarrollo/miporfolio/Gruntfile.js",
+		"/Users/tomas/Develop/polymer/app/elements/mi-elemento/mi-elemento.html",
+		"/Users/tomas/Develop/polymer/app/scripts/app.js",
+		"/Users/tomas/Desktop/test.md",
+		"/Users/tomas/Develop/polymer/.tmp/styles/main.css",
+		"/Users/tomas/Develop/polymer/node_modules/browser-sync/node_modules/serve-index/public/style.css",
+		"/Users/tomas/Develop/polymer/app/elements/routing.html",
+		"/Users/tomas/Develop/polymer/app/elements/elements.html",
+		"/Users/tomas/Develop/polymer/app/index.html",
+		"/Users/tomas/Documents/Cursos/respuestas reactJS.md",
+		"/Users/tomas/Develop/polymer/gulpfile.js",
+		"/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/Headers/vImage_Utilities.h",
+		"/Users/tomas/Google Drive/Develop/colgrafic-news/stylesheets/email.css",
+		"/Users/tomas/Google Drive/Develop/colgrafic-news/newsletter.html",
+		"/Users/tomas/Google Drive/Develop/whowinf1/styles.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"/Users/tomas/Dev/webapp",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";",
+			"function()",
+			"swing",
+			";",
+			"btn-r",
+			"btn-c",
+			"btn-b",
+			"F39C12",
+			"1EBC61",
+			"F75C4C",
+			"c22",
+			"2b4",
+			");",
+			"function(",
+			"function()",
+			");",
+			"color: #fff;\n		font-size: 10vh;\n		margin-top: 0;",
+			"1 h1",
+			"musica",
+			"ajax",
+			"set",
+			"invitado",
+			"scroll",
+			"							\n",
+			"spotify",
+			";\n",
+			"spot",
+			"spo",
+			"item",
+			"name",
+			"invitado",
+			"material",
+			"button",
+			"card",
+			"h4",
+			"h3",
+			"strong",
+			"button",
+			"item-body",
+			"this",
+			"name",
+			"form",
+			"button",
+			"');\n",
+			"input",
+			"selector",
+			"citric-flames",
+			"Rob",
+			"ice",
+			"iron",
+			"\"",
+			"sass",
+			"cssmin",
+			"dist",
+			"+','+d.join(',')",
+			"fechaFormat",
+			"scroll",
+			"return",
+			"if (",
+			"return",
+			"\n	}",
+			"{",
+			"nota",
+			"\"",
+			"statements_1",
+			"num",
+			"tmp",
+			"num",
+			"elMayor",
+			"return",
+			"3",
+			"line",
+			"“",
+			"”",
+			"#header-wrapper",
+			"header",
+			"#footer-wrapper",
+			"footer",
+			"pages",
+			"next",
+			"social_net",
+			"42px",
+			"tabs-1",
+			"&quot;",
+			"mtabs",
+			"Recent",
+			"tably-1",
+			"HTML96",
+			"recent",
+			"⤴",
+			"related",
+			"relater",
+			"Arlina",
+			"cpright",
+			"gallery",
+			"-gallery",
+			"gallery",
+			"#237dac",
+			"#0099cc",
+			"#f78297",
+			"#30abd5",
+			"stylus",
+			"}).",
+			"serve",
+			"styles",
+			"./",
+			"Local",
+			"styles",
+			"\n ",
+			"contact",
+			"iron",
+			"pages",
+			"contact",
+			"Cuál",
+			"¿",
+			" style=\"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #202020;font-weight: normal;text-decoration: underline;\"",
+			" style=\"height: 30px;margin: 0px;border: 0;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;\" ",
+			" style=\"width: 20px;height: 20px;margin: 0px;border: 0;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;\" ",
+			" style=\"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #202020;font-weight: normal;text-decoration: underline;\"",
+			" style=\"width: 80px;height: 80px;margin: 0px;border: 0;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;\" ",
+			" style=\"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #202020;font-weight: normal;text-decoration: underline;\"",
+			"hseldon@trantor.com",
+			"<div class=\"content\">\n				\n				<table class=\"agenda\">",
+			"style",
+			"underline",
+			"-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;color: #202020;font-weight: normal;"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#DB6446",
+			"#F26E4D",
+			"#FF5964"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 65.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 110.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "evento.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inde",
+				"app/index.html"
+			],
+			[
+				"rou",
+				"app/elements/routing.html"
+			],
+			[
+				"main",
+				".tmp/styles/main.css"
+			],
+			[
+				"sty",
+				"node_modules/browser-sync/node_modules/serve-index/public/style.css"
+			],
+			[
+				"ele",
+				"app/elements/elements.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
